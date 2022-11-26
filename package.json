@@ -1,0 +1,14 @@
+{
+  "name": "graphicsnative-examples",
+  "version": "1.0.0",
+  "description": "Examples GraphicsNative",
+  "main": "index.js",
+  "author": "miroslavskyDev",
+  "license": "MIT",
+  "dependencies": {
+    "@bymiroslavsky/graphicsnative": "^0.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
